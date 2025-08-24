@@ -86,7 +86,7 @@ Details.csv → Contains additional details related to products, customers, and 
 
 # 📸 Snapshot
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Anil-Korumilli/E-Commerce-Website-Analysis-Dashboard/blob/main/Snapshot%20of%20dashboard.png)
 
 
 # 🚀 Goal
