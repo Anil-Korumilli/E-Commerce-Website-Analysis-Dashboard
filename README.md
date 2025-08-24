@@ -86,6 +86,8 @@ Details.csv → Contains additional details related to products, customers, and 
 
 # 📸 Snapshot
 
+![Dashboard Preview]()
+
 
 # 🚀 Goal
 
